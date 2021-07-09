@@ -58,6 +58,8 @@ namespace xadrez_console
                 Console.WriteLine(e.Message);
             }
 
+            // teste
+
     Console.ReadLine();
                         
         }
